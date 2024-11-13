@@ -10,7 +10,7 @@ studying Analysis and Development of Information Systems at Una contagem.( Java,
 
 ## Stats 👨‍💻
 ![ISpawnz Github Stats](https://github-readme-stats.vercel.app/api?username=ISpawnz&show_icons=true&theme=onedark)
-![ISpawnz Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ISpawnz&theme=blue-onedark)
+![ISpawnz Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ISpawnz&theme=onedark)
 
 
 
