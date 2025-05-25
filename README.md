@@ -1,7 +1,7 @@
 # hello I'm Spawn 👻
 ## About me ⇓
 **💻ƒront-end dev**
-studying Analysis and Development of Information Systems at Una contagem.( Java, Python, C#, SQL ).
+studying Analysis and Development of Information Systems at Una contagem.( Java, Python, C#, SQL, Css, Html;).
 
  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_henriquesfrr/)[![SPawn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ispawnz.github.io/AstrofeetBETA/)
 
